@@ -1,0 +1,8 @@
+# Django
+Django==2.0.4
+django-environ==0.4.4
+django-extensions==2.0.7
+pytest-django==3.2.1
+django-heroku==0.3.1
+# Django REST Framework
+djangorestframework==3.8.2
